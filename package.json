@@ -8,8 +8,8 @@
     "ampt:build": "astro build --experimental-integrations --experimental-ssr"
   },
   "ampt": {
-    "org": "",
-    "app": "astro"
+    "app": "astro",
+    "org": "yzlab669556"
   },
   "devDependencies": {
     "@ampt/astro": "^1.0.0",
